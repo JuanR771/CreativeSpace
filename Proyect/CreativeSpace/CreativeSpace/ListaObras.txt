@@ -1,0 +1,62 @@
+Cuadro:
+Titulo:La noche estrellada
+FechaCreacion:1889-06-01
+Precio:1000000.0
+Dimensiones Cuadro:73
+Tecnica:Óleo
+Tema:Impresionismo
+Clasificacion:Obra maestra
+Imagen:
+Resolucion:300
+Formato Imagen:JPEG
+Dimensiones Imagen:1920
+
+Escultura:
+Titulo:El David
+FechaCreacion:1504-09-08
+Precio:2000000.0
+Material:Mármol
+Peso:5600
+Tamaño:517
+Video:
+Duracion:120
+Formato Video:MP4
+Color:Blanco y negro
+
+Instalacion:
+Titulo:Los turistas
+FechaCreacion:2020-03-15
+Precio:150000.0
+Descripcion:Instalación interactiva de luces y sonido
+Material:
+Nombre:LED
+Precio Material:5000
+Material:
+Nombre:Altavoces
+Precio Material:2000
+
+Cuadro:
+Titulo:El Grito
+FechaCreacion:1893-01-01
+Precio:777.0
+Dimensiones Cuadro:91
+Tecnica:Óleo, temple y pastel
+Tema:Expresionismo
+Clasificacion:Icono del arte
+Imagen:
+Resolucion:600
+Formato Imagen:PNG
+Dimensiones Imagen:1024
+
+Escultura:
+Titulo:ESCULTURA1
+FechaCreacion:1000-10-10
+Precio:123.0
+Material:ASDASD
+Peso:123
+Tamaño:123
+Video:
+Duracion:123
+Formato Video:ASDASD
+Color:ASDASD
+

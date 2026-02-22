@@ -1,0 +1,15 @@
+Titulo: Nueva publicacion, descubrela aqui!
+Fecha de Publicacion: 10/10/2000
+Descripcion: Nueva obra se instaló en la galeria, vistenla!
+Obras: El Grito, La noche estrellada
+
+Titulo: Visitanos!
+Fecha de Publicacion: 20/10/2020
+Descripcion: Nueva obra de Da Vinci se instaló en la galeria, vistenla!
+Obras: El David
+
+Titulo: Titulo1
+Fecha de Publicacion: 10/10/1000
+Descripcion: asdas
+Obras: El David, Los turistas
+

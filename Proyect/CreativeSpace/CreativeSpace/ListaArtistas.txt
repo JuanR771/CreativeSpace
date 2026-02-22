@@ -1,0 +1,15 @@
+Artista:
+Nombre:Pablo
+Apellido:Picasso
+FechaNacimiento:1881-10-25
+Biografia:Fue un pintor y escultor español, creador, junto con Georges Braque, del movimiento cubista.
+Artista:
+Nombre:Vincent
+Apellido:van Gogh
+FechaNacimiento:1853-03-30
+Biografia:Fue un pintor neerlandés, uno de los principales exponentes del postimpresionismo.
+Artista:
+Nombre:Frida
+Apellido:Kahlo
+FechaNacimiento:1907-07-06
+Biografia:Fue una pintora mexicana, conocida por sus retratos y autorretratos.

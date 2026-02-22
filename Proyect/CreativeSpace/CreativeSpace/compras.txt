@@ -1,0 +1,4 @@
+bb,El David,29/05/2024,0.1,2200000.0,Online,Recoger en tienda
+user,El Grito,29/05/2024,0.1,1320000.0,Online,Gasdaads
+bb,El Grito,29/05/2024,0.1,1320000.0,Online,A domicilio
+bb,El Grito,29/05/2024,0.1,1320000.0,Online,a Domicilio 

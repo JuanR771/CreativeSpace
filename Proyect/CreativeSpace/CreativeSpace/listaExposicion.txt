@@ -1,0 +1,66 @@
+Exposicion:
+Nombre:asdasd
+Tipo:Personal
+Descripcion:asdasd
+FechaInicio:1000-10-10
+FechaFin:1001-10-10
+Cuadro:
+Titulo:El Grito
+FechaCreacion:1893-01-01
+Precio:1200000.0
+Dimensiones:91
+Tecnica:Óleo, temple y pastel
+Tema:Expresionismo
+Clasificacion:Icono del arte
+Imagen:
+Resolucion:600
+FormatoArchivo:PNG
+Dimensiones:1024
+Exposicion:
+Nombre:ADS
+Tipo:aslhkd
+Descripcion:Uwu
+FechaInicio:2020-12-10
+FechaFin:2021-12-10
+Cuadro:
+Titulo:El Grito
+FechaCreacion:1893-01-01
+Precio:1200000.0
+Dimensiones:91
+Tecnica:Óleo, temple y pastel
+Tema:Expresionismo
+Clasificacion:Icono del arte
+Imagen:
+Resolucion:600
+FormatoArchivo:PNG
+Dimensiones:1024
+Exposicion:
+Nombre:Exposicion 1
+Tipo:Personal
+Descripcion:wasd
+FechaInicio:1000-10-10
+FechaFin:1000-10-11
+Cuadro:
+Titulo:El Grito
+FechaCreacion:1893-01-01
+Precio:1200000.0
+Dimensiones:91
+Tecnica:Óleo, temple y pastel
+Tema:Expresionismo
+Clasificacion:Icono del arte
+Imagen:
+Resolucion:600
+FormatoArchivo:PNG
+Dimensiones:1024
+Cuadro:
+Titulo:La noche estrellada
+FechaCreacion:1889-06-01
+Precio:1000000.0
+Dimensiones:73
+Tecnica:Óleo
+Tema:Impresionismo
+Clasificacion:Obra maestra
+Imagen:
+Resolucion:300
+FormatoArchivo:JPEG
+Dimensiones:1920
