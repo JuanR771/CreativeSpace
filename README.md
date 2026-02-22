@@ -188,8 +188,8 @@ CreativeSpace/
 |:---:|:---:|:---:|
 | Maria Paula Rodriguez Ruiz | [@MapaRuiz](https://github.com/MapaRuiz) | Development |
 | Juan Enrique Rozo Tarache | [@JuanR771](https://github.com/JuanR771) | Development |
-| Daniel Felipe Castro Moreno | — | Development |
-| Gabriel Anibal Riano | — | Development |
+| Daniel Felipe Castro Moreno | [@Dani2044](https://github.com/Dani2044) | Development |
+| Gabriel Anibal Riano | [@gabrielrb23](https://github.com/gabrielrb23) | Development |
 
 **Course:** Software Analysis & Design — Pontificia Universidad Javeriana, Bogota
 
